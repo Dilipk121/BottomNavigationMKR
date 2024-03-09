@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomNavigationMKR</string>
+    <string name="home">Home</string>
+    <string name="hotel">Hotel</string>
+    <string name="travel">Travel</string>
+    <string name="dinner">Dinner</string>
+    <string name="map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dinner_fragment">Dinner Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="hotel_fragment">Hotel Fragment</string>
+    <string name="map_fragment">Map Fragment</string>
+    <string name="travel_fragment">Travel Fragment</string>
+</resources>

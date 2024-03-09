@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/home"
+        android:id="@+id/home"
+        android:title="@string/home" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/hotel"
+        android:id="@+id/hotel"
+        android:title="@string/hotel" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/map"
+        android:id="@+id/map"
+        android:title="@string/map" />
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/dinner"
+        android:id="@+id/dinner"
+        android:title="@string/dinner" />
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/travel"
+        android:id="@+id/travel"
+        android:title="@string/travel" />
+
+</menu>
